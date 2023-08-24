@@ -1,0 +1,13 @@
+
+
+/* color code */
+:root{
+    --white: #ffffff;
+    --black: #000000;
+    --primaryFont: #28450B;
+    --fontMain: #5D605A;
+    --buttonBg: #FFA621;
+    --bgMain: #EDF6EE;
+    --bg: #E5E5E5;
+    --gradientBlog: linear-gradient(0deg, rgba(22, 45, 0, 0.8) 23.66%, rgba(12, 10, 46, 0) 100%); 
+}
